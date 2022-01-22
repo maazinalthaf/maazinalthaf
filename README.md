@@ -3,7 +3,6 @@
     <img src="https://i.imgur.com/A6MxugZ.png">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazinalthaf&layout=compact&langs_count=8&theme=dark">
-    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=maazinalthaf&show_icons=true&hide_border=true&theme=dark&count_private=true">
 </div>
 
