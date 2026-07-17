@@ -1,3 +1,3 @@
 # _just another random guy on the internet_ 🥀
 
-https://camo.githubusercontent.com/a26224c6d0d36f711bbbb54dda65acac4f2548d205f29c9205ba35fbfb2b3c9e/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c616e67735f636f756e743d34
+[![Maazin's GitHub stats](https://github-stats-extended.vercel.app/api?username=maazinalthaf)](https://github.com/stats-organization/github-stats-extended)
