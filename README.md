@@ -1,4 +1,4 @@
-# _just another random guy on the internet_ 🥀
+# anything but programming 🥀
 
 <table width="100%">
   <tr>
