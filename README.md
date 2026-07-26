@@ -1,4 +1,4 @@
-# anything but programming 🥀
+# _anything but programming_ 🥀
 
 <table width="100%">
   <tr>
