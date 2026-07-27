@@ -1,4 +1,4 @@
-# _anything but programming_ 🥀
+# I write code that even AI can't fix.
 
 <table width="100%">
   <tr>
